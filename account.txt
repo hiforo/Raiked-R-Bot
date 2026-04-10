@@ -1,5 +1,5 @@
 [ Your Facebook cookies ]
-[
+[[
     {
         "key": "datr",
         "value": "8WDZaQBFPFsSxXuMgTgAg4k6",
