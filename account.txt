@@ -1,4 +1,4 @@
-[ Your Facebook cookies ]
+
 [[
     {
         "key": "datr",
